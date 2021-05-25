@@ -16,7 +16,8 @@
 		<url>https://github.com/bradowatson/simplesql</url>
 		<connection>scm:git:git://github.com/bradowatson/simplesql.git</connection>
 		<developerConnection>scm:git:git@github.com:bradowatson/simplesql.git</developerConnection>
-	</scm>
+	  <tag>1.0</tag>
+  </scm>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
